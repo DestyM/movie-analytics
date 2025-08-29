@@ -48,7 +48,7 @@ st.markdown("# **Phase 1 : Développeur Python & Architecte API**")
 
 # Afficher l'image séparément
 st.image(
-        "./img/archi_api.png",
+        "https://github.com/DestyM/movie-analytics/blob/41080e2f8c53bfbead03add79888e5a227c63ef2/streamlit-app/img/archi_api.png",
          use_container_width=True
         )
 
@@ -71,7 +71,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 2 : Data Analyst - Exploration et Visualisation**")
 # Afficher l'image séparément
-st.image("./img/archi_app.png", use_container_width=True)
+st.image("https://github.com/DestyM/movie-analytics/blob/41080e2f8c53bfbead03add79888e5a227c63ef2/streamlit-app/img/archi_app.png", use_container_width=True)
 
 st.markdown(
         """
